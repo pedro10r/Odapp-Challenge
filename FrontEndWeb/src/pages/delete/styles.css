@@ -1,0 +1,47 @@
+.delete-body{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #C4CBCA;
+}
+
+.delete-container {
+  height: 100%;
+  width: 100%;
+  max-width: 1300px;
+  display: flex;
+  justify-content: center;
+  background-color: #f5f5f5;
+  box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.25);
+
+}
+
+.delete-dashboard-container{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.delete-dashboard-container-util-area{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;  
+  align-items: center;
+}
+
+.titulo-del {
+  display: flex;
+  align-items: center;
+  color: #292e35; 
+  height: 60px;
+}
+
+.swal2-cancel {
+  margin:10px;
+}
+
+.swal2-confirm {
+  margin:10px;
+}
