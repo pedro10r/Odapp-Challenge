@@ -11,4 +11,4 @@ Dentro do diretório da aplicação execute `yarn start`
 Esse comando irá executar a aplicação te levando para seu navegador e o sistema estará funcionando. 
 Lembrando que para listar os pacientes o BackEnd precisa estar sendo executado.
 
-Leia o Readme.md da pasta : `Backend`
+Leia o Readme.md da pasta : `BackEnd`
