@@ -9,4 +9,4 @@ dentro diretório da aplicação execute `adb reverse tcp:3001 tcp: 3001`, depoi
 Esse comando irá executar o aplicativo no emulador ou celular android.
 Lembrando que para listar os pacientes o BackEnd precisa estar sendo executado.
 
-Leia o Readme.md do repositório : `Odapp-Challenge_Back-End`
+Leia o Readme.md da pasta : `BackEnd`
